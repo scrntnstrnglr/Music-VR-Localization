@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "testing_google_vision", "testing_google_vision\testing_google_vision.pyproj", "{BA9F38CB-D832-4CEA-93B6-B688A9B1E97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9F38CB-D832-4CEA-93B6-B688A9B1E97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9F38CB-D832-4CEA-93B6-B688A9B1E97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8923B20-688E-4506-A4F5-18B0B5FC38FA}
+	EndGlobalSection
+EndGlobal

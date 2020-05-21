@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>testing_google_vision</Name>
     <RootNamespace>testing_google_vision</RootNamespace>
+    <TestFramework>Pytest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
